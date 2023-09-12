@@ -5,9 +5,9 @@ const HomePage = () => {
   return (
     <div className="w-full pt-2">
       <h1 className="text-xl text-black font-semibold mb-5">
-         <NavLink to={"/"}>
+         
              Create FlashCard
-         </NavLink>
+         
         </h1>
 
 
