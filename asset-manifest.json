@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FLASHCARD-GENERATOR/static/css/main.c721a12a.css",
+    "main.js": "/FLASHCARD-GENERATOR/static/js/main.3b9e3656.js",
+    "static/js/787.254fd7c3.chunk.js": "/FLASHCARD-GENERATOR/static/js/787.254fd7c3.chunk.js",
+    "static/media/hands-tab.jpg": "/FLASHCARD-GENERATOR/static/media/hands-tab.a01aa6a91a2a96378f7b.jpg",
+    "static/media/whatsapp-icon.svg": "/FLASHCARD-GENERATOR/static/media/whatsapp-icon.4b2d9a2b96bcc510de7e42c4c607c1b8.svg",
+    "static/media/mail-icon.svg": "/FLASHCARD-GENERATOR/static/media/mail-icon.e16ef1279ed3d03f0d990cf5ca9d3f33.svg",
+    "static/media/twitter-icon.svg": "/FLASHCARD-GENERATOR/static/media/twitter-icon.145d6d908a58b26f0d4c3d5a2d058c9f.svg",
+    "static/media/linkedin-icon.svg": "/FLASHCARD-GENERATOR/static/media/linkedin-icon.7cee089830681b17c13981a1f0be79a7.svg",
+    "index.html": "/FLASHCARD-GENERATOR/index.html",
+    "static/media/facebook-icon.svg": "/FLASHCARD-GENERATOR/static/media/facebook-icon.27cdc27acd49f385f3b6ea70c5511fde.svg",
+    "main.c721a12a.css.map": "/FLASHCARD-GENERATOR/static/css/main.c721a12a.css.map",
+    "main.3b9e3656.js.map": "/FLASHCARD-GENERATOR/static/js/main.3b9e3656.js.map",
+    "787.254fd7c3.chunk.js.map": "/FLASHCARD-GENERATOR/static/js/787.254fd7c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c721a12a.css",
+    "static/js/main.3b9e3656.js"
+  ]
+}
